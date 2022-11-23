@@ -2,7 +2,7 @@
 
 ## Create a Github Page for this repo
 
-You don't need an html document. Just create a Github Page and these images folders will be accessible from the web
+You don't need an html document. Just create a Github Page and these images folders will be accessible from the web. To create a Github Page, for this repo go to Settings and then Pages
 
 ## Copy your images folder from your local markdown to this repo
 
