@@ -8,11 +8,19 @@ You don't need an html document. Just create a Github Page and these images fold
 
 Copy your images folder from your local markdown to this repo. Change the images folder name in this repo to `<your-gist-name>` to keep all the gist image folders separate for easy identification
 
+### Local Markdown folder
+
+<br>
+
 ![local-gist](https://hudekker.github.io/gist-images-repo/gist-images-repo-readme/local-gist.png)
+
+### Local Gist Images Repo
+
+<br>
 
 ![gist-images-repo](https://hudekker.github.io/gist-images-repo/gist-images-repo-readme/gist-images-repo.png)
 
-## Commit and push to Github
+## Commit and push this repo to Github
 
 This makes your images folder accessible to both your local markdown and your gist
 
@@ -32,4 +40,8 @@ This makes your images folder accessible to both your local markdown and your gi
 
 ## Push your gist
 
-Your local markdown and your gist will both reference the online directory of the images. If you add or change images, then remember to add/change the images in your images repo.
+Your local markdown and your gist will both reference the online directory of the images.
+
+## Maintenance
+
+- If you add or change images, then remember to add/change the images to this local gist-images-repo and push.
