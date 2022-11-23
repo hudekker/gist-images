@@ -56,4 +56,4 @@ Your local markdown and your gist will both reference your Github Page directory
 
 ## Maintenance
 
-If you add or change images, then remember to add/change the images in this local gist-images-repo and push.
+If you add or change images, then remember to add/change the images in your local gist-images-repo and push.
