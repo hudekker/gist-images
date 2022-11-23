@@ -16,9 +16,15 @@ This makes your images folder accessible to both your local markdown and your gi
 
 - Create .gitignore and add your images folder name because you do not want this images folder to go to Gist. Actually gists do not support folders but this way you will avoid the gist error message.
 
-![git-ignore](https://hudekker.github.io/gist-images-repo/git-images-repo/git-ignore.png)
+![gitignore](https://hudekker.github.io/gist-images-repo/git-images-repo/gitignore.png)
 
 - In your markdown document globally replace the image folder reference with your Github Page directory. Markdown images are of the form `![label](images/my-image.jpg)` so a "safe" global replace may be Find `](images/` and Replace with `](https://<your-account-name>.github.io/gist-images-repo/<your-gist-name>/`. You don't want to replace the word 'images', just the images directory reference in the image markdown.
+
+![gitignore](https://hudekker.github.io/gist-images-repo/git-images-repo/pre-replace.png)
+
+![gitignore](https://hudekker.github.io/gist-images-repo/git-images-repo/global-replace.png)
+
+![gitignore](https://hudekker.github.io/gist-images-repo/git-images-repo/post-replace.png)
 
 ## Push your gist
 
