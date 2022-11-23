@@ -1,3 +1,7 @@
+# What is this repo?
+
+This is an online addressable repo for all of your gist images. A copy of all your gists images is stored here and all your gists will reference this repo in their image markdowns
+
 # How to use your gist-images-repo
 
 ## Create a Github Page for this repo
