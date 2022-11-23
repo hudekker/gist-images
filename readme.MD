@@ -34,7 +34,7 @@ This makes your images folder accessible to both your local markdown and your gi
 ![ocean-waves](images/my-image.jpg)
 ```
 
-```js
+```css
 ![ocean-waves](https://<your-account-name>.github.io/gist-images-repo/<your-gist-name>/my-image.jpg)
 ```
 
