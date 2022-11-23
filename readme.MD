@@ -1,6 +1,6 @@
 # What is this repo?
 
-This is an online addressable repo for all of your gist images. A copy of all your gists' images is stored here and all your gists will reference this repo for their image markdown addresses. Having one global images repo saves clutter on your Github repo listing by avoiding separate image repos each of your gist
+This is an online addressable repo for all of your gist images. A copy of all your gists' images is stored here and all your gists will reference this repo for their image markdown addresses. Having one global images repo avoids creating separate image repos each of your gist
 
 # How to use your gist-images-repo
 
