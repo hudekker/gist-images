@@ -16,7 +16,7 @@ Copy your images folder from your local markdown to this gist-images repo and re
 
 <br>
 
-![local-gist](https://hudekker.github.io/gist-images/gist-images-readme/local-gist.png)
+![local-gist](https://hudekker.github.io/gist-images/gist-images-readme/gist-work-around.png)
 
 ### Local Gist Images Repo
 
