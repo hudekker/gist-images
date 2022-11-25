@@ -12,17 +12,17 @@ You don't need an html document. Just create a Github Page and these images fold
 
 Copy your images folder from your local markdown to this gist-images repo and rename the folder to `<your-gist-name>`. This will allow you to address your images by your gist's name.
 
-### Local Markdown folder
+### Local gist
 
 <br>
 
-![local-gist](https://hudekker.github.io/gist-images/gist-images-readme/gist-work-around.png)
+![local-gist](https://hudekker.github.io/gist-images/gist-images-readme/local-gist.png)
 
-### Local Gist Images Repo
+### Local gist images repo
 
 <br>
 
-![gist-images-repo](https://hudekker.github.io/gist-images/gist-images-readme/gist-images-repo.png)
+![gist-images-repo](https://hudekker.github.io/gist-images/gist-images-readme/gist-images.png)
 
 ## Commit and push this repo to Github
 
