@@ -10,7 +10,7 @@ You don't need an html document. Just create a Github Page and these images fold
 
 ## Copy your images folder from your local markdown to this repo
 
-Copy your images folder from your local markdown to this repo. Change the images folder name in this repo to `<your-gist-name>` to keep all the gist image folders separate for easy identification
+Copy your images folder from your local markdown to this gist-images repo and rename the folder to `<your-gist-name>`. This will allow you to address your images by your gist's name.
 
 ### Local Markdown folder
 
