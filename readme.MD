@@ -16,13 +16,13 @@ Copy your images folder from your local markdown to this gist-images repo and re
 
 <br>
 
-![local-gist](https://hudekker.github.io/gist-images/gist-images-readme/local-gist.png)
+![local-gist](https://hudekker.github.io/gist-images/readme/local-gist.png)
 
 ### Local gist images repo
 
 <br>
 
-![gist-images-repo](https://hudekker.github.io/gist-images/gist-images-readme/gist-images.png)
+![gist-images-repo](https://hudekker.github.io/gist-images/readme/gist-images.png)
 
 ## Commit and push this repo to Github
 
@@ -34,7 +34,7 @@ This makes your images folder accessible to both your local markdown and your gi
 
   _.gitignore_
 
-  ![gitignore](https://hudekker.github.io/gist-images/gist-images-readme/gitignore.png)
+  ![gitignore](https://hudekker.github.io/gist-images/readme/gitignore.png)
 
 - In your markdown document globally replace the image folder reference with your Github Page directory. Markdown images are of the form `![label](images/my-image.jpg)` so a "safe" global replace may be Find `](images/` and Replace with `](https://<your-account-name>.github.io/gist-images/<your-gist-name>/`. You don't want to replace the word 'images', just the images directory reference in the image markdown.
 
